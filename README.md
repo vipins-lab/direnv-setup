@@ -1,7 +1,7 @@
 # direnv-setup
 
 ```txt
-Vipins-MacBook-Pro:direnv-setup vipin$ direnv allow .
+$ direnv allow .
 direnv: error .envrc file not found
 
 touch .envrc
